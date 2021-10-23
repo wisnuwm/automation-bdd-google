@@ -1,8 +1,10 @@
 # automation-bdd-google
 
-Hi Perkenalkan Namaku Wisnu Munawar
-Kali ini saya akan memberikan tutorial Test Automation menggunakan Cucumber Selenium Java
-
+Hi Perkenalkan Namaku Wisnu Munawar,
+<p>Kali ini saya akan memberikan tutorial Test Automation menggunakan Cucumber Selenium Java</p>
+<p> Linkedin : <a href=https://www.linkedin.com/in/wisnuwm>Click Here</a> </p>
+<p> Whatsapp : <a href=https://wa.me/6287883327253>Click Here</a> </p>
+  
 **Syarat** :
   - Java 15
   - IntelliJ IDEA
