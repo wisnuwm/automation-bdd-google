@@ -4,10 +4,11 @@ Hi Perkenalkan Namaku Wisnu Munawar,
 <p>Kali ini saya akan memberikan tutorial Test Automation menggunakan Cucumber Selenium Java</p>
 <p> Linkedin : <a href=https://www.linkedin.com/in/wisnuwm>Click Here</a> </p>
   
-**Syarat** :
+**Tools** :
   - Java 15
   - IntelliJ IDEA
   - Plugin "Cucumber for java" dan "Gherkin"
+  - Chromedriver untuk OS masing2
 
 **Berikut adalah langkah2 nya :**
 
