@@ -5,8 +5,7 @@ Hi Perkenalkan Namaku Wisnu Munawar,
 <p> Linkedin : <a href=https://www.linkedin.com/in/wisnuwm>Click Here</a> </p>
   
   
-<b>Berikut Adalah video tutorialnya</b>
-[![Watch the video](https://imgur.com/7kM8owi)](https://www.youtube.com/embed/x59ddRRaHpE)
+<p> Berikut Adalah video tutorialnya : <a href=https://imgur.com/7kM8owi)](https://www.youtube.com/embed/x59ddRRaHpE>Youtube</a> </p>
 
 
 **Tools** :
