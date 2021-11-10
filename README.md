@@ -6,7 +6,8 @@ Hi Perkenalkan Namaku Wisnu Munawar,
   
   
 <p>Berikut Adalah video tutorialnya</p>
-<iframe width="789" height="493" src="https://www.youtube.com/embed/x59ddRRaHpE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p><iframe width="789" height="493" src="https://www.youtube.com/embed/x59ddRRaHpE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 **Tools** :
   - Java 15
   - IntelliJ IDEA
