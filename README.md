@@ -5,9 +5,10 @@ Hi Perkenalkan Namaku Wisnu Munawar,
 <p> Linkedin : <a href=https://www.linkedin.com/in/wisnuwm>Click Here</a> </p>
   
   
-<p>Berikut Adalah video tutorialnya</p>
+<b>Berikut Adalah video tutorialnya</b>
 
-<p><iframe width="789" height="493" src="https://www.youtube.com/embed/x59ddRRaHpE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<b><iframe width="789" height="493" src="https://www.youtube.com/embed/x59ddRRaHpE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></b>
+<b></b>
 **Tools** :
   - Java 15
   - IntelliJ IDEA
