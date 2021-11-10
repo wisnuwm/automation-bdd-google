@@ -4,6 +4,9 @@ Hi Perkenalkan Namaku Wisnu Munawar,
 <p>Kali ini saya akan memberikan tutorial Test Automation menggunakan Cucumber Selenium Java</p>
 <p> Linkedin : <a href=https://www.linkedin.com/in/wisnuwm>Click Here</a> </p>
   
+  
+<p>Berikut Adalah video tutorialnya</p>
+<iframe width="789" height="493" src="https://www.youtube.com/embed/x59ddRRaHpE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 **Tools** :
   - Java 15
   - IntelliJ IDEA
