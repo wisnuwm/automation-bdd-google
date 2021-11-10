@@ -6,9 +6,9 @@ Hi Perkenalkan Namaku Wisnu Munawar,
   
   
 <b>Berikut Adalah video tutorialnya</b>
-<iframe width="789" height="493" src="https://www.youtube.com/embed/x59ddRRaHpE">
-</iframe>
-<b></b>
+[![Watch the video](https://imgur.com/7kM8owi)](https://www.youtube.com/embed/x59ddRRaHpE)
+
+
 **Tools** :
   - Java 15
   - IntelliJ IDEA
