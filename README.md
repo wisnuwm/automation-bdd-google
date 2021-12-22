@@ -1,16 +1,19 @@
 # automation-bdd-google
 
-Hi:wave: Perkenalkan Namaku Wisnu Munawar :slightly_smiling_face:, biasa dipanggil <a href=https://www.instagram.com/wisnumnw>Wisnu</a>, Kamu dapat menemukanku di <a href=https://www.linkedin.com/in/wisnuwm>Linkedin</a>
-<p>Kali ini saya akan memberikan tutorial Test Automation menggunakan Selenium menggunakan bahasa pemrograman Java + Cucumber.</p>
+Hi:wave: Perkenalkan Namaku [Wisnu Munawar](https://www.instagram.com/wisnumnw):slightly_smiling_face:, biasa dipanggil Wisnu, Kamu dapat menemukanku di [Linkedin.](https://www.linkedin.com/in/wisnuwm)
+<p>Kali ini saya akan membagikan tutorial Test Automation menggunakan Selenium menggunakan bahasa pemrograman Java + Cucumber.</p>
 <p>Semoga bermanfaat.</p>
-<p>Kamu dapat menonton videonya<a href=https://youtu.be/x59ddRRaHpE>disini</a></p>
+<p>Kamu dapat menonton videonya <a href=https://youtu.be/x59ddRRaHpE>disini</a></p>
 
 
 **Tools yang dibutuhkan** :
-  - Java 15
-  - IntelliJ IDEA
-  - Plugin "Cucumber for java" dan "Gherkin"
-  - Chromedriver untuk OS masing2
+- [Java 15](https://www.oracle.com/java/technologies/javase/jdk15-archive-downloads.html)
+- [IntelliJ IDEA](https://www.jetbrains.com/idea/download/)
+- IntelliJ IDEA Plugin :  [Cucumber for Java](https://plugins.jetbrains.com/plugin/7212-cucumber-for-java)
+- IntelliJ IDEA Plugin : [Gherkin](https://plugins.jetbrains.com/plugin/9164-gherkin)
+- [Chromedriver](https://chromedriver.chromium.org/downloads)
+  or [Geckodriver](https://github.com/mozilla/geckodriver/releases)
+- [Maven](https://github.com/mozilla/geckodriver/releases)
 
 **Berikut adalah langkah2 nya :**
 
