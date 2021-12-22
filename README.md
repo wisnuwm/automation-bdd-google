@@ -1,14 +1,12 @@
 # automation-bdd-google
 
-Hi Perkenalkan Namaku Wisnu Munawar,
-<p>Kali ini saya akan memberikan tutorial Test Automation menggunakan Cucumber Selenium Java</p>
-<p> Linkedin : <a href=https://www.linkedin.com/in/wisnuwm>Click Here</a> </p>
-  
-  
-<p> Berikut Adalah video tutorialnya : <a href=https://youtu.be/x59ddRRaHpE>Youtube</a> </p>
+Hi:wave: Perkenalkan Namaku Wisnu Munawar :slightly_smiling_face:, biasa dipanggil <a href=https://www.instagram.com/wisnumnw>Wisnu</a>, Kamu dapat menemukanku di <a href=https://www.linkedin.com/in/wisnuwm>Linkedin</a>
+<p>Kali ini saya akan memberikan tutorial Test Automation menggunakan Selenium menggunakan bahasa pemrograman Java + Cucumber.</p>
+<p>Semoga bermanfaat.</p>
+<p>Kamu dapat menonton videonya<a href=https://youtu.be/x59ddRRaHpE>disini</a></p>
 
 
-**Tools** :
+**Tools yang dibutuhkan** :
   - Java 15
   - IntelliJ IDEA
   - Plugin "Cucumber for java" dan "Gherkin"
@@ -18,14 +16,14 @@ Hi Perkenalkan Namaku Wisnu Munawar,
 
 1. Buat Project pada IDE, disini saya menggunakan IntelliJ (https://www.jetbrains.com/idea/download/)
 <img width="821" alt="Screen Shot 2021-10-23 at 14 42 25" src="https://user-images.githubusercontent.com/54229493/138548508-a77fcfa7-5726-4068-b4bb-45eb283d4ecf.png">
-<img width="811" alt="Screen Shot 2021-10-23 at 14 42 46" src="https://user-images.githubusercontent.com/54229493/138548517-89d5debc-13db-4530-b993-c47b052deaed.png">
+<img width="821" alt="Screen Shot 2021-10-23 at 14 42 46" src="https://user-images.githubusercontent.com/54229493/138548517-89d5debc-13db-4530-b993-c47b052deaed.png">
 
 2. Install Plugin ini "Cucumber for Java" dan "Gherkin"
 
 <img width="989" alt="Screen Shot 2021-10-23 at 14 45 34" src="https://user-images.githubusercontent.com/54229493/138548657-8d0320a9-af22-4bc0-b2af-192da322c7f9.png">
 
 3. Buka pom.xml dan add dependency ini
-```
+```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
@@ -122,7 +120,7 @@ Hi Perkenalkan Namaku Wisnu Munawar,
 <img width="465" alt="Screen Shot 2021-10-23 at 14 46 51" src="https://user-images.githubusercontent.com/54229493/138548839-de7dba43-6ac9-4d63-b69f-e8d53337da3c.png">
 
 6. Buat Feature file "SearchGoogle.feature" pada directory Features
-```
+```gherkin
 Feature: Search Google
   Scenario: I want to using feature search on google
     Given I Open browser
@@ -141,7 +139,7 @@ Feature: Search Google
 <img width="706" alt="Screen Shot 2021-10-23 at 14 54 47" src="https://user-images.githubusercontent.com/54229493/138549076-93d6eba3-825a-43eb-a260-bc96c691398a.png">
 
 9. Isi scenario di java code nya seperti dibawah ini ya
-```
+```java
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
@@ -207,7 +205,7 @@ https://user-images.githubusercontent.com/54229493/138549271-4ad67366-9748-4df9-
 <img width="1154" alt="Screen Shot 2021-10-23 at 15 34 24" src="https://user-images.githubusercontent.com/54229493/138549343-f278f808-c7ce-4ac1-bac0-df1325e5d9d6.png">
 
 13. Lalu copy code ini 
-```
+```java
 @RunWith(Cucumber.class)
 @CucumberOptions(features="src/test/resources/Features",
         glue= {"StepDef"},
