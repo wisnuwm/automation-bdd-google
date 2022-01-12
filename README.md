@@ -13,7 +13,7 @@ Hi:wave: Perkenalkan Namaku [Wisnu Munawar](https://www.instagram.com/wisnumnw):
 - IntelliJ IDEA Plugin : [Gherkin](https://plugins.jetbrains.com/plugin/9164-gherkin)
 - [Chromedriver](https://chromedriver.chromium.org/downloads)
   or [Geckodriver](https://github.com/mozilla/geckodriver/releases)
-- [Maven](https://github.com/mozilla/geckodriver/releases)
+- [Maven](https://maven.apache.org/download.cgi)
 
 **Berikut adalah langkah2 nya :**
 
